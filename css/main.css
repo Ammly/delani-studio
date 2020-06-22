@@ -1,0 +1,59 @@
+html {
+    font-family: 'Lato', 'San-serif';
+}
+
+.jumbotron {
+    background: url('../assets/backgrounds/h_img.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 90vh;
+}
+
+#about,
+#skills,
+#portfolio,
+#services,
+#contact {
+    height: 70vh;
+    padding-bottom: 6rem;
+    margin-top: 4rem;
+}
+
+#services {
+    background: url('../assets/backgrounds/s_image.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#contact {
+    background: url('../assets/backgrounds/c_image.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.form-control {
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+}
+
+::placeholder {
+    color: white !important;
+    font-size: 14px;
+}
+
+button {
+    font-weight: bold;
+    transition: border 0.2s;
+    font-size: 1.2rem;
+}
+
+button:hover {
+    border: 2px solid #fff;
+}
