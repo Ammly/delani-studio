@@ -10,11 +10,6 @@ To start using this project use the following commands:
 - `cd delani-studio`
 - `code .` [//]: # (if you use VS Code editor)
 
-
-## Project live site
-
- This is the live .[ Click for the demo](https://ammly.github.io/delani-studio/)
-
 ## Technologies Used
 
 * HTML
